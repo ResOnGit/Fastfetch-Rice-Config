@@ -1,0 +1,1 @@
+# Fastfetch-Rice-Config
