@@ -2,19 +2,7 @@
 
 ## A very normal Fastfetch config made at 3 AM after finals.
 
-Features:
-
-* ASCII art because yes.
-* Purple keys because purple good.
-* Clean section separators.
-* OS, kernel, uptime.
-* CPU, GPU, RAM, swap.
-* Shell and terminal.
-* Multiple drive monitoring.
-* Local IP display.
-* Maximum goblin engineering.
-
-## Preview
+### Preview
 
 Displays:
 
