@@ -1,0 +1,55 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "source": "/mnt/DingusNux/Medias/memes/pyroman.txt",
+    "padding": {
+      "top": 1,
+      "left": 2
+    }
+  },
+  "display": {
+    "separator": "  ",
+    "color": {
+      "keys": "35",
+      "output": "white"
+    },
+    "key": {
+        "width": 10
+    }
+  },
+  "modules": [
+    {
+        "type": "separator",
+        "string": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    { "type": "os", "key": "OS!" },
+    { "type": "kernel", "key": "KRNL!" },
+    { "type": "uptime", "key": "UPTIME!" },
+    {
+        "type": "separator",
+        "string": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    { "type": "cpu", "key": "CPU" },
+    { "type": "gpu", "key": "GPU" },
+    { "type": "memory", "key": "MEM" },
+    { "type": "swap", "key": "SWAP"},
+    {
+        "type": "separator",
+        "string": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    { "type": "shell", "key": "SHELL!" },
+    { "type": "terminal", "key": "TRMNL!" },
+    {
+        "type": "separator",
+        "string": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    { "type": "disk", "folders": "/", "key": "Root" },
+    { "type": "disk", "folders": "/run/media/res/DingusNux", "key": "Dingus" },
+    { "type": "disk", "folders": "/run/media/res/ResVME_NUX", "key": "NVME" },
+    {
+        "type": "separator",
+        "string": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    { "type": "localip", "key": "IP?" }
+  ]
+}
