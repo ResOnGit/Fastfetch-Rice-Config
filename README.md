@@ -1,6 +1,6 @@
-# FASTFETCH 
 
-A very normal Fastfetch config made at 3 AM after finals.
+
+## A very normal Fastfetch config made at 3 AM after finals.
 
 Features:
 
