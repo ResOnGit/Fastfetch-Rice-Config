@@ -20,7 +20,7 @@ Displays:
 * NVME disk usage
 * Local IP
 
-Image preview in repo
+#### Image preview is in ~/ of repo.
 
 ## Installation
 
